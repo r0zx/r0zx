@@ -6,7 +6,7 @@
 <!-- Animated Subtitle -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=60&lines=%E2%9A%A1+Breaking+Systems+to+Make+Them+Stronger+%E2%9A%A1;%F0%9F%94%92+Web+Security+%7C+Vuln+Research+%7C+Tool+Development;%F0%9F%9A%80+Currently+Building+MWAVS+-+Web+Vulnerability+Scanner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=60&lines=%E2%9A%A1+Breaking+Systems+to+Make+Them+Stronger+%E2%9A%A1;%F0%9F%94%92+Web+Security+%7C+Vuln+Research+%7C+Tool+Development;" alt="Typing SVG" />
   </a>
 </div>
 
