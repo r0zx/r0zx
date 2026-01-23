@@ -54,7 +54,7 @@
 
 <div align="center">
   
-### 🎯 Who Am I?
+###  Who Am I?
 
 </div>
 
@@ -82,7 +82,7 @@ philosophy: |
 
 <div align="center">
   
-### 🔥 What Drives Me?
+###  What Drives Me?
 
 </div>
 
@@ -100,7 +100,7 @@ class SecurityEngineer:
         ]
         
     def current_mission(self):
-        return "Building MWAVS 🚀"
+        return "Building MWAVS "
     
     def motto(self):
         return "Hack to Protect!"
@@ -115,7 +115,7 @@ class SecurityEngineer:
 <!-- What I Do Section -->
 <div align="center">
   
-### 💼 What I Do
+###  What I Do
 
 </div>
 
@@ -172,7 +172,7 @@ class SecurityEngineer:
 
 <div align="center">
 
-### 🕷️ MWAVS
+###  MWAVS
 **Modular Web Application Vulnerability Scanner**
 
 </div>
@@ -180,21 +180,21 @@ class SecurityEngineer:
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║   🎯 PURPOSE                                                 ║
+║   PURPOSE                                                    ║
 ║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                       ║
 ║   A powerful, plugin-based web vulnerability scanner         ║
 ║   designed for security researchers and penetration          ║
 ║   testers who need flexibility and automation.               ║
 ║                                                              ║
-║   ⚡ KEY FEATURES                                            ║
+║   KEY FEATURES                                               ║
 ║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                       ║
-║   ✦ Modular plugin architecture                              ║
-║   ✦ Automated vulnerability detection                        ║
-║   ✦ Comprehensive scanning capabilities                      ║
-║   ✦ Detailed reporting system                                ║
-║   ✦ Easy extensibility for custom checks                     ║
+║   + Modular plugin architecture                              ║
+║   + Automated vulnerability detection                        ║
+║   + Comprehensive scanning capabilities                      ║
+║   + Detailed reporting system                                ║
+║   + Easy extensibility for custom checks                     ║
 ║                                                              ║
-║   🛠️ TECH STACK                                              ║
+║   TECH STACK                                                 ║
 ║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                       ║
 ║   Python • FastAPI • Async • Plugin System                   ║
 ║                                                              ║
@@ -224,7 +224,7 @@ class SecurityEngineer:
 
 <div align="center">
 
-<!-- Languages -->
+<!-- Languages 
 <details open>
 <summary><h3>🔤 Languages & Scripting</h3></summary>
 <br>
@@ -240,8 +240,8 @@ class SecurityEngineer:
 | ![PHP](https://img.shields.io/badge/PHP-0d1117?style=flat-square&logo=php&logoColor=00d4ff) | ███████░░░ 70% | Web Development |
 
 </details>
-
-<!-- Frameworks & Tools -->
+-->
+<!-- Frameworks & Tools 
 <details open>
 <summary><h3>⚙️ Frameworks & Development</h3></summary>
 <br>
@@ -286,7 +286,7 @@ class SecurityEngineer:
 </div>
 </details>
 
-<!-- Design Tools -->
+<!-- Design Tools 
 <details>
 <summary><h3>🎨 Design & Other Tools</h3></summary>
 <br>
@@ -320,7 +320,7 @@ class SecurityEngineer:
 
 <br>
 
-<!-- Streak Stats -->
+<!-- Streak Stats 
 <div align="center">
   <a href="https://github.com/r0zx">
     <img width="70%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=r0zx&theme=react&hide_border=true&background=0d1117&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=8b949e&border_radius=15" alt="GitHub Streak"/>
@@ -389,35 +389,35 @@ class SecurityEngineer:
 <div align="center">
 
 ```
-                            🎯 SECURITY MASTERY ROADMAP 2024
+                        SECURITY MASTERY ROADMAP 2024
      ═══════════════════════════════════════════════════════════════════
 
      ╭─────────────────────────────────────────────────────────────────╮
      │                                                                 │
-     │   🔐 PHASE 1: FOUNDATIONS                          ████████ ✅  │
+     │    PHASE 1: FOUNDATIONS                                    100% │
      │   ├── Web Security Fundamentals                                 │
-     │   ├── OWASP Top 10 Deep Dive                                   │
-     │   └── Python Security Scripting                                │
+     │   ├── OWASP Top 10 Deep Dive                                    │
+     │   └── Python Security Scripting                                 │
      │                                                                 │
-     │   🕷️ PHASE 2: TOOL DEVELOPMENT                     ██████░░ 75% │
-     │   ├── Complete MWAVS Scanner                                   │
-     │   ├── Plugin Architecture                                      │
-     │   └── Automation Framework                                     │
+     │    PHASE 2: TOOL DEVELOPMENT                                75% │
+     │   ├── Complete MWAVS Scanner                                    │
+     │   ├── Plugin Architecture                                       │
+     │   └── Automation Framework                                      │
      │                                                                 │
-     │   🎯 PHASE 3: OFFENSIVE SKILLS                     ████░░░░ 50% │
-     │   ├── Advanced Penetration Testing                             │
-     │   ├── Bug Bounty Hunting                                       │
-     │   └── Real-world Attack Simulation                             │
+     │    PHASE 3: OFFENSIVE SKILLS                                50% │
+     │   ├── Advanced Penetration Testing                              │
+     │   ├── Bug Bounty Hunting                                        │
+     │   └── Real-world Attack Simulation                              │
      │                                                                 │
-     │   🔬 PHASE 4: RESEARCH                             ██░░░░░░ 25% │
-     │   ├── Zero-day Research                                        │
-     │   ├── Malware Analysis                                         │
-     │   └── Threat Intelligence                                      │
+     │   PHASE 4: RESEARCH                                         25% │
+     │   ├── Zero-day Research                                         │
+     │   ├── Malware Analysis                                          │
+     │   └── Threat Intelligence                                       │
      │                                                                 │
-     │   🚀 PHASE 5: MASTERY                              ░░░░░░░░ 10% │
-     │   ├── Red Team Operations                                      │
-     │   ├── Advanced Persistence                                     │
-     │   └── Security Research Papers                                 │
+     │    PHASE 5: MASTERY                                         10% │
+     │   ├── Red Team Operations                                       │
+     │   ├── Advanced Persistence                                      │
+     │   └── Security Research Papers                                  │
      │                                                                 │
      ╰─────────────────────────────────────────────────────────────────╯
 
@@ -500,20 +500,20 @@ class SecurityEngineer:
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
 ║                                                                          ║
-║                          📬 GET IN TOUCH                                 ║
+║                             GET IN TOUCH                                 ║
 ║                                                                          ║
 ║   ┌──────────────────────────────────────────────────────────────────┐   ║
 ║   │                                                                  │   ║
-║   │   💼 Open for:                                                   │   ║
-║   │   ├── Security Research Collaborations                          │   ║
-║   │   ├── Open Source Security Projects                             │   ║
-║   │   ├── Penetration Testing Opportunities                         │   ║
-║   │   └── Learning & Knowledge Sharing                              │   ║
+║   │      Open for:                                                   │   ║
+║   │   ├── Security Research Collaborations                           │   ║
+║   │   ├── Open Source Security Projects                              │   ║
+║   │   ├── Penetration Testing Opportunities                          │   ║
+║   │   └── Learning & Knowledge Sharing                               │   ║
 ║   │                                                                  │   ║
-║   │   📧 Email: dhimanyatin4@gmail.com                               │   ║
-║   │   💼 LinkedIn: linkedin.com/in/yatin-dhiman                      │   ║
+║   │      Email: dhimanyatin4@gmail.com                               │   ║
+║   │      LinkedIn: linkedin.com/in/yatin-dhiman                      │   ║
 ║   │                                                                  │   ║
-║   │   🌟 "Let's make the digital world more secure together!"       │   ║
+║   │     "Let's make the digital world more secure together!"         │   ║
 ║   │                                                                  │   ║
 ║   └──────────────────────────────────────────────────────────────────┘   ║
 ║                                                                          ║
@@ -545,15 +545,15 @@ class SecurityEngineer:
 <!--
      ╔═══════════════════════════════════════════════════════════════╗
      ║                                                               ║
-     ║    ██████╗  ██████╗ ███████╗██╗  ██╗                         ║
-     ║    ██╔══██╗██╔═████╗╚══███╔╝╚██╗██╔╝                         ║
-     ║    ██████╔╝██║██╔██║  ███╔╝  ╚███╔╝                          ║
-     ║    ██╔══██╗████╔╝██║ ███╔╝   ██╔██╗                          ║
-     ║    ██║  ██║╚██████╔╝███████╗██╔╝ ██╗                         ║
-     ║    ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝                         ║
+     ║    ██████╗  ██████╗ ███████╗██╗  ██╗                          ║
+     ║    ██╔══██╗██╔═████╗╚══███╔╝╚██╗██╔╝                          ║
+     ║    ██████╔╝██║██╔██║  ███╔╝  ╚███╔╝                           ║
+     ║    ██╔══██╗████╔╝██║ ███╔╝   ██╔██╗                           ║
+     ║    ██║  ██║╚██████╔╝███████╗██╔╝ ██╗                          ║
+     ║    ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝                          ║
      ║                                                               ║
-     ║    🎉 You found the secret! You're officially a hacker!      ║
-     ║    🔒 Stay curious. Stay ethical. Keep breaking stuff!       ║
+     ║     You found the secret! You're officially a hacker!         ║
+     ║     Stay curious. Stay ethical. Keep breaking stuff!          ║
      ║                                                               ║
      ╚═══════════════════════════════════════════════════════════════╝
 -->
